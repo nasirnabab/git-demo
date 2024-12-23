@@ -1,4 +1,4 @@
 # git-demo
 Learning Git
 <br/>
-Author : SK Nasiruddin
+Author : SK Nasiruddin(RKMGEC)
